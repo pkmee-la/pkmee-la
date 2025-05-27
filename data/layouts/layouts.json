@@ -4410,6 +4410,56 @@
       "secondary_tileset": "gTileset_MysteryEventsHouse",
       "border_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/border.bin",
       "blockdata_filepath": "data/layouts/SootopolisCity_MysteryEventsHouse_1F_StairsUnblocked/map.bin"
+    },
+    {
+      "id": "LAYOUT_NEW_MAP1",
+      "name": "NewMap1_Layout",
+      "width": 60,
+      "height": 60,
+      "primary_tileset": "gTileset_Snow1",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/NewMap1/border.bin",
+      "blockdata_filepath": "data/layouts/NewMap1/map.bin"
+    },
+    {
+      "id": "LAYOUT_CANALAVE",
+      "name": "Canalave_Layout",
+      "width": 51,
+      "height": 39,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Slateport",
+      "border_filepath": "data/layouts/Canalave/border.bin",
+      "blockdata_filepath": "data/layouts/Canalave/map.bin"
+    },
+    {
+      "id": "LAYOUT_MILKIWA_RIVER",
+      "name": "MilkiwaRiver_Layout",
+      "width": 35,
+      "height": 35,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/MilkiwaRiver/border.bin",
+      "blockdata_filepath": "data/layouts/MilkiwaRiver/map.bin"
+    },
+    {
+      "id": "LAYOUT_NORTH_STRAIT",
+      "name": "NorthStrait_Layout",
+      "width": 25,
+      "height": 40,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Dewford",
+      "border_filepath": "data/layouts/NorthStrait/border.bin",
+      "blockdata_filepath": "data/layouts/NorthStrait/map.bin"
+    },
+    {
+      "id": "LAYOUT_SANDGEM",
+      "name": "Sandgem_Layout",
+      "width": 30,
+      "height": 29,
+      "primary_tileset": "gTileset_General",
+      "secondary_tileset": "gTileset_Petalburg",
+      "border_filepath": "data/layouts/Sandgem/border.bin",
+      "blockdata_filepath": "data/layouts/Sandgem/map.bin"
     }
   ]
 }
